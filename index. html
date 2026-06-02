@@ -4,13 +4,13 @@
 
 <head>
 
-    <title>Fashion Website</title>
+    <title> Kira kouture </title>
 
 </head>
 
 <body>
 
-    <h1>Welcome to My Fashion Website</h1>
+    <h1>Welcome to Kira kouture , your destination for fashion services</h1>
 
     <p>Latest fashion trends and styles.</p>
 
@@ -27,7 +27,9 @@
         <li>Accessories</li>
 
     </ul>
-
+<h2>contact Us</h2>
+<p>Phone:0715362489</p>
+<p>Email:kirakorture@gmail.com</p>
 </body>
 
 </html>

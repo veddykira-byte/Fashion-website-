@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Fashion Website</title>
+
+</head>
+
+<body>
+
+    <h1>Welcome to My Fashion Website</h1>
+
+    <p>Latest fashion trends and styles.</p>
+
+    <h2>Our Collection</h2>
+
+    <ul>
+
+        <li>Dresses</li>
+
+        <li>Shoes</li>
+
+        <li>Bags</li>
+
+        <li>Accessories</li>
+
+    </ul>
+
+</body>
+
+</html>

@@ -30,13 +30,26 @@
 
     <ul>
 
-        <li>Dresses</li>
+        <li>Dinner dresses</li>
 
-        <li>Shoes</li>
+        <li>Prom dresses</li>
 
-        <li>Bags</li>
+        <li>Casual dresses</li>
 
-        <li>Accessories</li>
+        <li>Bridal Dresses</li>
+<table border="1">
+<tr>
+<th>Item</th>
+<th> prices(Ksh)</th>
+</tr>
+<tr>
+<td>Dinner dress</td>
+<td>4,500</td>
+</tr>
+<tr>
+<td>Prom dress</td>
+<td>15,000</td>
+
 
     </ul>
 <h2>contact Us</h2>
